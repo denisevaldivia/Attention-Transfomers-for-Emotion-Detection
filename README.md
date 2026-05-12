@@ -34,3 +34,5 @@ aita-moral-judgment/
 │   └── aita_finetune.jsonl
 └── README.md
 ```
+
+`Authors: Diana Valdivia, Samantha Sánchez & Octavio Perez.`
